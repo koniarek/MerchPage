@@ -3,13 +3,25 @@ module.exports = options => {
 
   return {
     siteMetadata: {
-      title: "Gatsby Theme Gallery",
+      title: "Merch JNKTSKT",
       description: "",
-      author: "",
+      author: "Koniarek",
       social: [
         {
-          name: "GitHub",
-          url: "https://github.com/epilande/gatsby-theme-gallery",
+          name: "Facebook",
+          url: "https://www.facebook.com/tonciujunkietosekta",
+        },
+        {
+          name: "Youtube",
+          url: "https://www.youtube.com/channel/UC3EOoqNeN30lu00ExULB5uA",
+        },
+        {
+          name: "SoundCloud",
+          url: "https://soundcloud.com/tonciu",
+        },
+        {
+          name: "Email",
+          url: "mailto:tedoendoce@gmail.com",
         },
       ],
     },
